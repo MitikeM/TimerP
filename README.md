@@ -1,0 +1,1 @@
+This is a simple countdown timer web application that allows users to track time visually using a circular progress indicator. The application includes basic functionalities to start, pause, and reset the timer.
